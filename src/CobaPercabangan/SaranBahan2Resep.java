@@ -60,7 +60,7 @@ public class SaranBahan2Resep {
                             "Anda dapat membuat pisang rebus");
                 }
         else
-                  switch(bahan2)
+                switch(bahan2)
                 {
                     case 1: System.out.println(
                             "Anda dapat membuat telur mata sapi"); break;

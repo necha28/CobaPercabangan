@@ -20,69 +20,69 @@
 ![Alt Text](https://github.com/necha28/CobaPercabangan/blob/master/capture5.PNG)
 
 7
-![Alt Text](https://github.com/necha28/CobaPercabangan/blob/master/capture6.png)
+![Alt Text](https://github.com/necha28/CobaPercabangan/blob/master/capture6.PNG)
 
 # 12
 
 1
-![Alt Text](https://github.com/necha28/CobaPercabangan/blob/master/capture7.PNG)
+![Alt Text](https://github.com/necha28/CobaPercabangan/blob/master/capture7.png)
 
 3
-![Alt Text](https://github.com/necha28/CobaPercabangan/blob/master/capture8.PNG)
+![Alt Text](https://github.com/necha28/CobaPercabangan/blob/master/capture8.png)
 
 5
-![Alt Text](https://github.com/necha28/CobaPercabangan/blob/master/capture9.PNG)
+![Alt Text](https://github.com/necha28/CobaPercabangan/blob/master/capture9.png)
 
 6
-![Alt Text](https://github.com/necha28/CobaPercabangan/blob/master/capture10.PNG)
+![Alt Text](https://github.com/necha28/CobaPercabangan/blob/master/capture10.png)
 
 7
-![Alt Text](https://github.com/necha28/CobaPercabangan/blob/master/capture11.PNG)
+![Alt Text](https://github.com/necha28/CobaPercabangan/blob/master/capture11.png)
 
 # 15
 
 1
-![Alt Text](https://github.com/necha28/CobaPercabangan/blob/master/capture12.PNG)
+![Alt Text](https://github.com/necha28/CobaPercabangan/blob/master/capture12.png)
 
 3
-![Alt Text](https://github.com/necha28/CobaPercabangan/blob/master/capture13.PNG)
+![Alt Text](https://github.com/necha28/CobaPercabangan/blob/master/capture13.png)
 
 5
-![Alt Text](https://github.com/necha28/CobaPercabangan/blob/master/capture14.PNG)
+![Alt Text](https://github.com/necha28/CobaPercabangan/blob/master/capture14.png)
 
 7
-![Alt Text](https://github.com/necha28/CobaPercabangan/blob/master/capture15.PNG)
+![Alt Text](https://github.com/necha28/CobaPercabangan/blob/master/capture15.png)
 
 # 18
 
 1
-![Alt Text](https://github.com/necha28/CobaPercabangan/blob/master/capture16.PNG)
+![Alt Text](https://github.com/necha28/CobaPercabangan/blob/master/capture16.png)
 
 2
-![Alt Text](https://github.com/necha28/CobaPercabangan/blob/master/capture17.PNG)
+![Alt Text](https://github.com/necha28/CobaPercabangan/blob/master/capture17.png)
 
 3
-![Alt Text](https://github.com/necha28/CobaPercabangan/blob/master/capture18.PNG)
+![Alt Text](https://github.com/necha28/CobaPercabangan/blob/master/capture18.png)
 
 4
-![Alt Text](https://github.com/necha28/CobaPercabangan/blob/master/capture19.PNG)
+![Alt Text](https://github.com/necha28/CobaPercabangan/blob/master/capture19.png)
 
 5
-![Alt Text](https://github.com/necha28/CobaPercabangan/blob/master/capture20.PNG)
+![Alt Text](https://github.com/necha28/CobaPercabangan/blob/master/capture20.png)
 
 7
-![Alt Text](https://github.com/necha28/CobaPercabangan/blob/master/capture21.PNG)
+![Alt Text](https://github.com/necha28/CobaPercabangan/blob/master/capture21.png)
 
 # 21
 
 50
-![Alt Text](https://github.com/necha28/CobaPercabangan/blob/master/capture22.PNG)
+![Alt Text](https://github.com/necha28/CobaPercabangan/blob/master/capture22.png)
 
 75
-![Alt Text](https://github.com/necha28/CobaPercabangan/blob/master/capture23.PNG)
+![Alt Text](https://github.com/necha28/CobaPercabangan/blob/master/capture23.png)
 
 85
-![Alt Text](https://github.com/necha28/CobaPercabangan/blob/master/capture24.PNG)
+![Alt Text](https://github.com/necha28/CobaPercabangan/blob/master/capture24.png)
 
 # Percabangan #2
 # 11

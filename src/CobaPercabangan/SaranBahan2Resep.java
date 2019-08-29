@@ -39,12 +39,12 @@ public class SaranBahan2Resep {
                 System.out.println("3. Tidak ada");
                 
             }
-            System.out.println("Masukkan no pilihan Anda :");
-            int bahan2 = scanner.nextInt();
-        
+            
         }else 
             System.out.println("Mohon Maaf, Pilihan tidak ditemukan," 
                     + "tidak dapat memberikan saran resep");
+        
+            System.out.print("Masukkan no pilihan Anda :");
         
         int bahan2 = scanner.nextInt();
         if(bahan2 >= 1 && bahan2 <= 3)

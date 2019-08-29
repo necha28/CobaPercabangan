@@ -109,4 +109,14 @@
 ![Alt Text](https://github.com/necha28/CobaPercabangan/blob/master/Capture31.PNG)
 
 # TUGAS TAMBAHAN
+Golongan A
+![Alt Text](https://github.com/necha28/CobaPercabangan/blob/master/Capture32.PNG)
+
+Golongan B
+![Alt Text](https://github.com/necha28/CobaPercabangan/blob/master/Capture33.PNG)
+
 Golongan C
+![Alt Text](https://github.com/necha28/CobaPercabangan/blob/master/Capture34.PNG)
+
+Tidak ada dalam pilihan kWh
+![Alt Text](https://github.com/necha28/CobaPercabangan/blob/master/Capture35.PNG)
